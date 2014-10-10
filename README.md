@@ -1,14 +1,14 @@
-*Alex Dubinchyk*
-*Hayward, CA*
-*[alexs.dbk@gmail.com](mailto:alexs.dbk@gmail.com)*
+*Alex Dubinchyk*<br>
+*Hayward, CA*<br>
+*[alexs.dbk@gmail.com](mailto:alexs.dbk@gmail.com)*<br><br>
 
-#STATUS
+#####STATUS
 Green Card Holder
 
-#OBJECTIVE
+#####OBJECTIVE
 Seeking a challenging position to use my software Web development and process optimization skills.
 
-##SUMMARY
+#####SUMMARY
 
 * Strong CS background and problem solving capabilities.
 * Three years of full-stack web development experience.
@@ -16,7 +16,7 @@ Seeking a challenging position to use my software Web development and process op
 * Development of statistics interfaces and related web-interfaces.
 * Internal and external APIs (JSON), refactoring, implementing new functionality.
 
-Technology 
+#####Technology 
 
 * Server side PHP 5.
 * SQL Database programming: MySQL, SQL.
@@ -27,7 +27,7 @@ Technology
 * Source control: SVN/Subversion, GIT.
 * Platforms: Linux, Windows.
 
-##EXPERIENCE
+#####EXPERIENCE
 
   **Rozumsoft LLC, / Telecontact LLC http://www.telecontact.ru/**
   **Full stack PHP Developer**
@@ -52,6 +52,6 @@ Designed and developed the company website (http://www.rozumsoft.com/). This sit
 * Business consulting of securing/ planning project.
 * Development to online marketing, search engine placement and promotion (http://www.mogu.by; http://www.a-h.by).
 
-##EDUCATION
+#####EDUCATION
 * Belarusian University of Informatics and Radioelectronics,
 * BS in Modeling and computer-aided design of radioelectronics devices.

@@ -25,17 +25,17 @@ I'm energenic, solution oriented team-player, constantly learning and growing as
 *	Platforms: Linux, Windows.
 
 #####EXPERIENCE
- **BloomSky http://www.bloomsky.com**
- **Backend Developer**
- **Sunnyvale, CA. October 2014 - Current**
+**BloomSky http://www.bloomsky.com**
+**Backend Developer**
+**Sunnyvale, CA. October 2014 - Current**
 
 * Integrated APIs (PHP, JSON, XML)
 * Set up PHPUnit and functional testing
 
-  **Rozumsoft LLC, / Telecontact LLC http://www.telecontact.ru/**
-  **Full stack PHP Developer**
-  **Belarus, Minsk. February 2012 - August  2014**
-**Programming modules of dynamically building statistics for quality control assessment project.**
+**Rozumsoft LLC, / Telecontact LLC http://www.telecontact.ru/**
+**Full stack PHP Developer**
+**Belarus, Minsk. February 2012 - August  2014**
+    **Programming modules of dynamically building statistics for quality control assessment project.**
 
 *	Designed and developed project quality control assessment that estimated effective work of operators in callcenters from different regions. Includes  modules separation mapping based on more 20 users roles(RBAC), online editors(logs, statistical formulas, projects rules and etc)  for more 10k clients.
 *	Finalization coding script of internal protection algorithm authorization and validation.
@@ -44,18 +44,18 @@ I'm energenic, solution oriented team-player, constantly learning and growing as
 *	Codes cross-browsers users interfaces in project quality control assessment, using Javascript, jQuery, JSON, Bootstrap.
 *	Developed JavaScript audio player with individual custom design, hardware acceleration, deceleration and the order to play audio files.
 
-**Designed and developed the company website (http://www.rozumsoft.com/).**
+    **Designed and developed the company website (http://www.rozumsoft.com/).**
 *	Implemented 3 domain zones(ru/by/com) algorithm.
 *	Codes contents editor for 3 languages
 *	Fixed and support custom seo map logic.
 
-**Developed scripts products to callcenters operators**
+    **Developed scripts products to callcenters operators**
 *	Development of  сomplex reports and statistical summaries by Cisco data telephony.
 *	Redesigned and reimplemented projects using MVC approach and strong OOP design
 *	Normalization of scripts database, extensive SQL query optimization, a database conversion.
 
- **Real Estate Agency Assistant heals LLC, Full stack PHP Developer**
- **Belarus, Minsk, http://www.a-h.by; May 2011 - January 2012**
+**Real Estate Agency Assistant heals LLC, Full stack PHP Developer**
+**Belarus, Minsk, http://www.a-h.by; May 2011 - January 2012**
 
 * Dynamic website design and programming using PHP, MySQL, HTML, CSS. Setup and administration of web servers and server software.
 * Business consulting of securing/ planning project.

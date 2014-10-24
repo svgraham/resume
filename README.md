@@ -1,31 +1,28 @@
 *Alex Dubinchyk*<br>
 *Pleasant Hill, CA*<br>
-*[alexs.dbk@gmail.com](mailto:alexs.dbk@gmail.com)*<br><br>
-
-#####STATUS
-Green Card Holder
+*[alexs.dbk@gmail.com](mailto:alexs.dbk@gmail.com)*<br>
+*Status:Green Card Holder*
+<br><br>
 
 #####OBJECTIVE
 Seeking a challenging position to use my software Web development and process optimization skills.
 
 #####SUMMARY
 
-* Strong CS background and problem solving capabilities.
-* Three years of full-stack web development experience.
-* Development of large highly distributed client/server applications.
-* Development of statistics interfaces and related web-interfaces.
-* Internal and external APIs (JSON), refactoring, implementing new functionality.
+<p>&nbsp;&nbsp;I have been working 4 years as a Software Engineer, starting as a developer in Belarus and moved to the US this year.</p>
+<p>&nbsp;&nbsp;I worked on a wide range of products including building advanced dynamic multi language web sites, internal and external API's, well as creating new internal workflows.</p>
+<p>&nbsp;&nbsp;My goal is to work in a passionate team, that loves their work and the products they are creating together, supporting, mentoring, optimizing workflows and creating high quality software and an inspiring atmosphere.
+I'm energenic, solution oriented team-player, constantly learning and growing as a team, and bringing high spirits along with me.</p>
 
 #####Technology 
 
-* Server side PHP 5.
-* SQL Database programming: MySQL, SQL.
-* Web programming OPP pattern (MVC, Including Yii framework).
-* Client-side programming: JavaScript, AJAX, jQuery.
-* Smarty Template Engine, HTML5, CSS3.
-* Webserver installation and configuration: Apache.
-* Source control: SVN/Subversion, GIT.
-* Platforms: Linux, Windows.
+*	Server side PHP programming, REST, OPP, MVC, Yii framework.
+*	SQL Database programming: MySQL, SQL.
+*	Client-side programming: JavaScript, AJAX, jQuery.
+*	Smarty Template Engine, HTML5, CSS3.
+*	Webserver installation and configuration: Apache.
+*	Source control: SVN/Subversion, GIT(http://github.com/alexsdbk ).
+*	Platforms: Linux, Windows.
 
 #####EXPERIENCE
 

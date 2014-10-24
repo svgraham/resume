@@ -25,25 +25,37 @@ I'm energenic, solution oriented team-player, constantly learning and growing as
 *	Platforms: Linux, Windows.
 
 #####EXPERIENCE
+ **BloomSky http://www.bloomsky.com**
+ **Backend Developer**
+ **Sunnyvale, CA. October 2014 - Current**
+
+* Integrated APIs (PHP, JSON, XML)
+* Set up PHPUnit and functional testing
 
   **Rozumsoft LLC, / Telecontact LLC http://www.telecontact.ru/**
   **Full stack PHP Developer**
   **Belarus, Minsk. February 2012 - August  2014**
+**Programming modules of dynamically building statistics for quality control assessment project.**
 
-* Programming modules of dynamically building statistics for quality control assessment project .
-Programming API service data exchange using object-oriented pattern, the PHP CURL, JSON data parse, AJAX. Merge/load data from more 100 scripts, 15 servers, near 1000 onlineusers. User could load up to 5 000 lines of data and 65000 lines in Excel. Cross-browsers support/testing.
+*	Designed and developed project quality control assessment that estimated effective work of operators in callcenters from different regions. Includes  modules separation mapping based on more 20 users roles(RBAC), online editors(logs, statistical formulas, projects rules and etc)  for more 10k clients.
+*	Finalization coding script of internal protection algorithm authorization and validation.
+*	Programming API service for quality control assessment. Interact with user interface(AJAX) with fast load up JSON data, audio files and extract large data in excel.
+*	API data exchange integrated with data parse, merge, view in table linkage, send emails. Support more 100 source, near 1000 onlineusers, more 10 servers. 
+*	Codes cross-browsers users interfaces in project quality control assessment, using Javascript, jQuery, JSON, Bootstrap.
+*	Developed JavaScript audio player with individual custom design, hardware acceleration, deceleration and the order to play audio files.
 
-* Developed JavaScript audio player with support/testing cross-browsers(IE8 including) for quality control assessment project. Individual custom hardware acceleration, deceleration and the order to play audio files. AJAX load.
-Designed and developed project quality control assessment that estimated effective work of operators in callcenters from different regions. Using MVC pattern, RBAC(Yii) users roles system, AJAX, Smarty, Linux platform.
-Separation mapping data based on user role. Online editing options statistical formulas to create individual product fields.
-* Finalization coding script of internal protection algorithm authorization.
-Designed and developed the company website (http://www.rozumsoft.com/). This site has 3 domain zones, online contents editor for 3 languages. Using MVC pattern, .htaccess config.
-* Developed scripts to provide a variety of reports and statistical summaries of operators, projects, Cisco data telephony, individual performance by the customer.
-* Development of online logs: viewed, printed, exported to spreadsheet application for editing and analysis, perform mail merge with other scripts.
-* PHP object-oriented design, normalization of MySQL database, extensive SQL query optimization, a database conversion. Using platform Windows.
+**Designed and developed the company website (http://www.rozumsoft.com/).**
+*	Implemented 3 domain zones(ru/by/com) algorithm.
+*	Codes contents editor for 3 languages
+*	Fixed and support custom seo map logic.
+
+**Developed scripts products to callcenters operators**
+*	Development of  сomplex reports and statistical summaries by Cisco data telephony.
+*	Redesigned and reimplemented projects using MVC approach and strong OOP design
+*	Normalization of scripts database, extensive SQL query optimization, a database conversion.
 
  **Real Estate Agency Assistant heals LLC, Full stack PHP Developer**
- **Belarus, Minsk, http://www.a-h.by; November 2011 - January 2012**
+ **Belarus, Minsk, http://www.a-h.by; May 2011 - January 2012**
 
 * Dynamic website design and programming using PHP, MySQL, HTML, CSS. Setup and administration of web servers and server software.
 * Business consulting of securing/ planning project.

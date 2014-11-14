@@ -27,10 +27,11 @@ I'm energenic, solution oriented team-player, constantly learning and growing as
 #####EXPERIENCE
 **BloomSky http://www.bloomsky.com**<br>
 **Backend Developer**<br>
-**Sunnyvale, CA. October 2014 - Current**
+**Sunnyvale, CA. October 2014 - November 2014**
 
-* Integrated APIs (PHP, JSON, XML)
+* Integrated APIs (PHP, Python, Django, Nginx)
 * Set up PHPUnit and functional testing
+* Deploy merge DB script (MSSQL>MySQL)
 
 **Rozumsoft LLC, / Telecontact LLC http://www.telecontact.ru/**<br>
 **Full stack PHP Developer**<br>

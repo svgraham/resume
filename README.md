@@ -9,7 +9,6 @@ Seeking a challenging position to use my software Web development and process op
 
 #####SUMMARY
 
-<p>&nbsp;&nbsp;I have been working 4 years as a Software Engineer, starting as a developer in Belarus and moved to the US this year.</p>
 <p>&nbsp;&nbsp;I worked on a wide range of products including building advanced dynamic multi language web sites, internal and external API's, well as creating new internal workflows.</p>
 <p>&nbsp;&nbsp;My goal is to work in a passionate team, that loves their work and the products they are creating together, supporting, mentoring, optimizing workflows and creating high quality software and an inspiring atmosphere.
 I'm energenic, solution oriented team-player, constantly learning and growing as a team, and bringing high spirits along with me.</p>

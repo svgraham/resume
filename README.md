@@ -15,10 +15,10 @@ I'm energenic, solution oriented team-player, constantly learning and growing as
 #####Technology 
 
 *	Server side PHP programming, REST, OPP, MVC, Yii framework.
-*	SQL Database programming: MySQL, SQL.
+*	SQL Database programming: MySQL, SQL, MSSQL.
 *	Client-side programming: JavaScript, AJAX, jQuery.
 *	Smarty Template Engine, HTML5, CSS3.
-*	Webserver installation and configuration: Apache.
+*	Webserver installation and configuration: Apache, Nginx, IIS.
 *	Source control: SVN/Subversion, GIT(http://github.com/alexsdbk ).
 *	Platforms: Linux, Windows.
 

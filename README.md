@@ -19,10 +19,17 @@ I'm energenic, solution oriented team-player, constantly learning and growing as
 *	Client-side programming: JavaScript, AJAX, jQuery.
 *	Smarty Template Engine, HTML5, CSS3.
 *	Webserver installation and configuration: Apache, Nginx, IIS.
-*	Source control: SVN/Subversion, GIT(http://github.com/alexsdbk ).
-*	Platforms: Linux, Windows.
+*	Source control: SVN/Subversion, GIT.
+*	Platforms: Linux, Mac, Windows.
 
 #####EXPERIENCE
+**Actuate http://www.actuate.com/**<br>
+**Full stack PHP Developer**<br>
+**San Manteo, CA. November 2014 - current**
+
+* Implemented web service(API, MVC, Php)
+* Introduced Git to the team
+
 **BloomSky http://www.bloomsky.com**<br>
 **Backend Developer**<br>
 **Sunnyvale, CA. October 2014 - November 2014**

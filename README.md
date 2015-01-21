@@ -14,7 +14,7 @@ I'm energenic, solution oriented team-player, constantly learning and growing as
 
 #####Technology 
 
-*	Server side PHP programming, REST, OPP, MVC, Yii framework.
+*	Server side PHP programming, REST, OOP, MVC, Yii framework.
 *	SQL Database programming: MySQL, SQL, MSSQL.
 *	Client-side programming: JavaScript, AJAX, jQuery.
 *	Smarty Template Engine, HTML5, CSS3.

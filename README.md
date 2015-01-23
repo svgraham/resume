@@ -5,22 +5,27 @@
 <br><br>
 
 #####OBJECTIVE
-Seeking a challenging position to use my software Web development and process optimization skills.
+Seeking a challenging position in an awesome work environment.
 
 #####SUMMARY
 
-<p>&nbsp;&nbsp;I worked on a wide range of products including building advanced dynamic multi language web sites, internal and external API's, well as creating new internal workflows. My goal is to work in a passionate team, that loves their work and the products they are creating together, supporting, mentoring, optimizing workflows and creating high quality software.
-I'm energenic, solution oriented team-player, constantly learning and growing as a team, and bringing high spirits along with me.</p>
+*	4+ years Full Stack web development experience. 
+*	0,5 year Python experience.
+*	Specialized in full stack web development: backend(LAMP), fronend(JS,CSS,HTML).
+* Foundation in Computer Science, with competencies in data structures, algorithms, data analysis, and software design;
 
 #####Technology 
 
-*	Server side PHP programming, REST, OOP, MVC, Yii framework.
-*	SQL Database programming: MySQL, SQL, MSSQL.
-*	Client-side programming: JavaScript, AJAX, jQuery.
-*	Smarty Template Engine, HTML5, CSS3.
-*	Webserver installation and configuration: Apache, Nginx, IIS.
+* PHP techs: Yii framework, PDO, PHPUnit
+* SQL Database programming: MySQL, SQL, MSSQL.
+* Web: HTML, CSS, JavaScript(JQuery).
+* Web-service: API integration/development(REST/XML/JSON/whatever)
+* Python techs: ORM Peewee, Django framework.
+* Template: Smarty Template Engine.
 *	Source control: SVN/Subversion, GIT.
-*	Platforms: Linux, Mac, Windows.
+*	Webserver installation and configuration: Apache, Nginx, IIS.
+* OS: Linux, Mac, Windows.
+* Bugtracking & docs: JIRA, Mantis Bug Tracker.
 
 #####EXPERIENCE
 **Actuate http://www.actuate.com/**<br>
@@ -34,7 +39,7 @@ I'm energenic, solution oriented team-player, constantly learning and growing as
 **Backend Developer**<br>
 **Sunnyvale, CA. October 2014 - November 2014**
 
-* Integrated APIs (PHP, Python, Django, Nginx)
+* Integrated APIs: PHP, Python
 * Set up PHPUnit and functional testing
 * Deploy merge DB script (MSSQL>MySQL)
 
@@ -68,5 +73,5 @@ I'm energenic, solution oriented team-player, constantly learning and growing as
 * Development to online marketing, search engine placement and promotion (http://www.mogu.by; http://www.a-h.by).
 
 #####EDUCATION
-* Belarusian University of Informatics and Radioelectronics,
-* BS in Modeling and computer-aided design of radioelectronics devices.
+* Belarusian University of Informatics and Radioelectronics, <br>
+ BS in Modeling and computer-aided design of radioelectronics devices.

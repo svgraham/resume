@@ -5,7 +5,7 @@
 <br><br>
 
 #####OBJECTIVE
-Seeking a challenging position in an awesome work environment.
+&nbsp;&nbsp;Seeking a challenging position in an awesome work environment.
 
 #####SUMMARY
 

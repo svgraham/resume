@@ -12,7 +12,7 @@
 *	4+ years Full Stack web development experience. 
 *	0,5 year Python experience.
 *	Specialized in full stack web development: backend(LAMP), fronend(JS,CSS,HTML).
-* Foundation in Computer Science, with competencies in data structures, algorithms, data analysis, and software design;
+* Foundation in Computer Science, with competencies in data structures, algorithms, data analysis, and software design.
 
 #####Technology 
 

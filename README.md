@@ -1,5 +1,5 @@
 *Alex Dubinchyk*<br>
-*Pleasant Hill, CA*<br>
+*Sunnyvale, CA*<br>
 *[alexs.dbk@gmail.com](mailto:alexs.dbk@gmail.com)*<br>
 *Status:Green Card Holder*
 <br><br>

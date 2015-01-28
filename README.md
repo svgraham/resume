@@ -39,7 +39,8 @@
 **Backend Developer**<br>
 **Sunnyvale, CA. October 2014 - November 2014**
 
-* Integrated APIs: PHP, Python
+* Integrated APIs work with National Digital Forecast Database(<a href='http://graphical.weather.gov/'>NDFD</a>).(PHP, Python, REST)
+* Scalability data from NDFD with user's application data.
 * Set up PHPUnit and functional testing
 * Deploy merge DB script (MSSQL>MySQL)
 

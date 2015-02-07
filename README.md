@@ -32,17 +32,18 @@
 **Full stack PHP Developer**<br>
 **San Manteo, CA. November 2014 - current**
 
-* Implemented web service(API, MVC, Php)
-* Introduced Git to the team
+* Implemented transaction payment web service(API, MVC, PHP).
+* Support company website, code formating, refactoring.
+* Introduced Git to the team.
 
 **BloomSky http://www.bloomsky.com**<br>
 **Backend Developer**<br>
 **Sunnyvale, CA. October 2014 - November 2014**
 
-* Integrated APIs work with National Digital Forecast Database(<a href='http://graphical.weather.gov/'>NDFD</a>).(PHP, Python, REST)
+* Integrated APIs work with National Digital Forecast Database(<a href='http://graphical.weather.gov/'>NDFD</a>, PHP, Python, REST).
 * Scalability data from NDFD with user's application data.
-* Set up PHPUnit and functional testing
-* Deploy merge DB script (MSSQL>MySQL)
+* Set up PHPUnit and functional testing.
+* Deploy merge DB script (MSSQL>MySQL).
 
 **Rozumsoft LLC, / Telecontact LLC http://www.telecontact.ru/**<br>
 **Full stack PHP Developer**<br>
@@ -58,12 +59,12 @@
 
 &nbsp;&nbsp;**Designed and developed the company website (http://www.rozumsoft.com/).**
 *	Implemented 3 domain zones(ru/by/com) algorithm.
-*	Codes contents editor for 3 languages
+*	Codes contents editor for 3 languages.
 *	Fixed and support custom seo map logic.
 
 &nbsp;&nbsp;**Developed scripts products to callcenters operators**
 *	Development of  сomplex reports and statistical summaries by Cisco data telephony.
-*	Redesigned and reimplemented projects using MVC approach and strong OOP design
+*	Redesigned and reimplemented projects using MVC approach and strong OOP design.
 *	Designed and conversion of scripts database, extensive SQL query optimization.
 
 **Real Estate Agency Assistant heals LLC, Full stack PHP Developer**<br>

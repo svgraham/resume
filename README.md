@@ -19,7 +19,7 @@
 * PHP techs: Yii framework, PDO, PHPUnit
 * SQL Database programming: MySQL, SQL, MSSQL.
 * Web: HTML, CSS, JavaScript(JQuery).
-* Web-service: API integration/development(REST/XML/JSON/whatever)
+* Web-service: API integration/development(REST/XML/JSON).
 * Python techs: ORM Peewee, Django framework.
 * Template: Smarty Template Engine.
 *	Source control: SVN/Subversion, GIT.

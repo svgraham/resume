@@ -28,7 +28,7 @@
 * Bugtracking & docs: JIRA, Mantis Bug Tracker.
 
 #####EXPERIENCE
-**Actuate http://www.actuate.com/**<br>
+**Actuate(http://www.actuate.com/)**<br>
 **Full stack PHP Developer**<br>
 **San Manteo, CA. November 2014 - current**
 
@@ -36,7 +36,7 @@
 * Support company website, code formating, refactoring.
 * Introduced Git to the team.
 
-**BloomSky http://www.bloomsky.com**<br>
+**BloomSky(http://www.bloomsky.com)**<br>
 **Backend Developer**<br>
 **Sunnyvale, CA. October 2014 - November 2014**
 
@@ -45,7 +45,7 @@
 * Set up PHPUnit and functional testing.
 * Deploy merge DB script (MSSQL>MySQL).
 
-**Rozumsoft LLC, / Telecontact LLC http://www.telecontact.ru/**<br>
+**Rozumsoft LLC, / Telecontact LLC(http://www.telecontact.ru/)**<br>
 **Full stack PHP Developer**<br>
 **Belarus, Minsk. February 2012 - September  2014**<br><br>
 &nbsp;&nbsp;**Programming modules of dynamically building statistics for quality control assessment project.**
@@ -67,8 +67,8 @@
 *	Redesigned and reimplemented projects using MVC approach and strong OOP design.
 *	Designed and conversion of scripts database, extensive SQL query optimization.
 
-**Real Estate Agency Assistant heals LLC, Full stack PHP Developer**<br>
-**Belarus, Minsk, http://www.a-h.by; May 2011 - January 2012**
+**Real Estate Agency Assistant heals LLC(http://www.a-h.by), Full stack PHP Developer**<br>
+**Belarus, Minsk; May 2011 - January 2012**
 
 * Dynamic website design and programming using PHP, MySQL, HTML, CSS. Setup and administration of web servers and server software.
 * Business consulting of securing/ planning project.

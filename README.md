@@ -9,30 +9,41 @@
 
 #####SUMMARY
 
-*	4+ years Full Stack web development experience. 
-*	0,5 year Python experience.
-*	Specialized in full stack web development: backend(LAMP), fronend(JS,CSS,HTML).
+*	5+ years development experience. 
+*	Specialized in full stack web development.
 * Foundation in Computer Science, with competencies in data structures, algorithms, data analysis, and software design.
 
 #####Technology 
 
+* Javascript: Express, Passport, Anugularjs
 * PHP techs: Yii framework, PDO, PHPUnit
-* SQL Database programming: MySQL, SQL, MSSQL.
 * Web: HTML, CSS, JavaScript(JQuery).
 * Web-service: API integration/development(REST/XML/JSON).
+* SQL Database programming: MySQL, SQL, MSSQL.
+* NoSQL Database programming: Couchbase server.
 * Python techs: ORM Peewee, Django framework.
 * Template: Smarty Template Engine.
 *	Source control: SVN/Subversion, GIT.
-*	Webserver installation and configuration: Apache, Nginx, IIS.
+*	Webserver installation and configuration: Nodejs, Apache, Nginx, IIS.
 * OS: Linux, Mac, Windows.
 * Bugtracking & docs: JIRA, Mantis Bug Tracker.
 
 #####EXPERIENCE
+**Startup Synchora**<br>
+**Full Stack Developer**<br>
+**Redwood City, CA. April 2015 - current** <br>
+
+* Development backend side for new mobile app(IOs/Android/Web).
+* Design NOSQL documents.
+* Dev Swagger specification.
+* Development testing case/classes for API.
+
 **Actuate(http://www.actuate.com/)**<br>
 **Full stack PHP Developer**<br>
-**San Manteo, CA. November 2014 - current**
+**San Manteo, CA. November 2014 - April 2015**
 
-* Implemented transaction payment web service(API, MVC, PHP).
+* Implemented transaction payment web service.
+* Updated script product autification, validation & reginstration.
 * Support company website, code formating, refactoring.
 * Introduced Git to the team.
 

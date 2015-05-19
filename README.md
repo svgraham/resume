@@ -1,6 +1,6 @@
 *Alex Dubinchyk*<br>
 *Sunnyvale, CA*<br>
-*[alexs.dbk@gmail.com](mailto:alexs.dbk@gmail.com)*<br>
+*[alexdevby@gmail.com](mailto:alexs.dbk@gmail.com)*<br>
 *Status:Green Card Holder*
 <br><br>
 
@@ -28,20 +28,22 @@
 * Bugtracking & docs: JIRA, Mantis Bug Tracker.
 
 #####EXPERIENCE
-**Startup Synchora**<br>
+**Mobile app Startup Synchora**<br>
 **Full Stack Developer**<br>
 **Redwood City, CA. April 2015 - current** <br>
 
 * Development API service for new mobile apps(IOs/Android).
 * Design NOSQL documents/views.
 * Dev Swagger specification.
-* Development testing case/classes for API.
+* Development testing classes for API.
+* Participated in the development of the product and the concept of the idea of a new application.
 
 **Actuate(http://www.actuate.com/)**<br>
 **Full stack PHP Developer**<br>
 **San Manteo, CA. November 2014 - April 2015**
 
 * Implemented transaction payment web service.
+* Design and development frontend payment web service for USA credit card.
 * Updated script product autification, validation & reginstration.
 * Support company website, code formating, refactoring.
 * Introduced Git to the team.
@@ -53,7 +55,7 @@
 * Integrated APIs work with National Digital Forecast Database(<a href='http://graphical.weather.gov/'>NDFD</a>, PHP, Python, REST).
 * Scalability data from NDFD with user's application data.
 * Set up PHPUnit and functional testing.
-* Deploy merge DB script (MSSQL>MySQL).
+* Deploy merge DB script(MSSQL>MySQL).
 
 **Rozumsoft LLC, / Telecontact LLC(http://www.telecontact.ru/)**<br>
 **Full stack PHP Developer**<br>

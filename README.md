@@ -15,12 +15,11 @@
 
 #####Technology 
 
-* Javascript: Express, Passport, Anugularjs
-* PHP techs: Yii framework, PDO, PHPUnit
-* Web: HTML, CSS, JavaScript(JQuery).
+* Javascript frameworks: Express, Passport, Anugularjs, JQuery.
+* PHP techs: Yii framework, PDO, PHPUnit.
 * Web-service: API integration/development(REST/XML/JSON).
-* SQL Database programming: MySQL, SQL, MSSQL.
 * NoSQL Database programming: Couchbase server.
+* SQL Database programming: MySQL, SQL, MSSQL.
 * Python techs: ORM Peewee, Django framework.
 * Template: Smarty Template Engine.
 *	Source control: SVN/Subversion, GIT.
@@ -33,8 +32,8 @@
 **Full Stack Developer**<br>
 **Redwood City, CA. April 2015 - current** <br>
 
-* Development backend side for new mobile app(IOs/Android/Web).
-* Design NOSQL documents.
+* Development API service for new mobile apps(IOs/Android).
+* Design NOSQL documents/views.
 * Dev Swagger specification.
 * Development testing case/classes for API.
 

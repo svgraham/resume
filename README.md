@@ -20,40 +20,34 @@
 * Web-service: API integration/development(REST/XML/JSON).
 * NoSQL Database programming: Couchbase server.
 * SQL Database programming: MySQL, SQL, MSSQL.
-* Python techs: ORM Peewee, Django framework.
-* Template: Smarty Template Engine.
-*	Source control: SVN/Subversion, GIT.
+* Python techs: ORM Peewee.
 *	Webserver installation and configuration: Nodejs, Apache, Nginx, IIS.
 * OS: Linux, Mac, Windows.
-* Bugtracking & docs: JIRA, Mantis Bug Tracker.
 
 #####EXPERIENCE
 **Mobile app Startup Synchora**<br>
 **Full Stack Developer**<br>
 **Redwood City, CA. April 2015 - current** <br>
 
-* Development API service for new mobile apps(IOs/Android).
-* Design NOSQL documents/views.
-* Dev Swagger specification.
-* Development testing classes for API.
-* Participated in the development of the product and the concept of the idea of a new application.
+* Developed json RESTfull API service for new mobile apps(IOs/Android) in two month period, including: OAuth, users profiles, messages, friendship and etc(Node.js, express, socket)
+* Design NoSQL documents, install and setup couchbasedb in cloud instancse(Amazon).
+* Design and deploy API specification with testing case(Swagger).
+* Development of the product and the concept of the brand new idea of the application.
 
 **Actuate(http://www.actuate.com/)**<br>
 **Full stack PHP Developer**<br>
 **San Manteo, CA. November 2014 - April 2015**
 
-* Implemented transaction payment web service.
-* Design and development frontend payment web service for USA credit card.
-* Updated script product autification, validation & reginstration.
+* Implemented transaction payment web service. Setup transaction steps logging, alert, history and etc. Design and development frontend payment web service for USA credit card.
+* Updated script for key generator analytics projects. Changed logic in process: authentication, validation & reginstration.
 * Support company website, code formating, refactoring.
-* Introduced Git to the team.
+* Introduced Github to the team.
 
 **BloomSky(http://www.bloomsky.com)**<br>
-**Backend Developer**<br>
+**Backend Developer (Contract position)**<br>
 **Sunnyvale, CA. October 2014 - November 2014**
 
-* Integrated APIs work with National Digital Forecast Database(<a href='http://graphical.weather.gov/'>NDFD</a>, PHP, Python, REST).
-* Scalability data from NDFD with user's application data.
+* Integrated APIs work with National Digital Forecast Database(<a href='http://graphical.weather.gov/'>NDFD</a>, PHP, Python, REST). Scalability data from NDFD with user's mobile application data. Deploy class for merge users and NDFD data.
 * Set up PHPUnit and functional testing.
 * Deploy merge DB script(MSSQL>MySQL).
 

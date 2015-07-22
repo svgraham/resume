@@ -25,9 +25,16 @@
 * OS: Linux, Mac, Windows.
 
 #####EXPERIENCE
+
+**Thismoment**<br>
+**Full Stack Web Developer**<br>
+**San Francisco, CA. June 2015 – Current** <br>
+
+<br>
+
 **Mobile app Startup Synchora**<br>
 **Full Stack Developer**<br>
-**Redwood City, CA. April 2015 - current** <br>
+**Redwood City, CA. April 2015 - June 2015** <br>
 
 * Developed json RESTfull API service for new mobile apps(IOs/Android) in two month period, including: OAuth, users profiles, messages, friendship and etc(Node.js, express, socket)
 * Design NoSQL documents, install and setup couchbasedb in cloud instancse(Amazon).

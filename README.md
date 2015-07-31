@@ -36,7 +36,7 @@
 **Full Stack Developer**<br>
 **Redwood City, CA. April 2015 - June 2015** <br>
 
-* Developed json RESTfull API service for new mobile apps(IOs/Android) in two month period, including: OAuth, users profiles, messages, friendship and etc(Node.js, express, socket)
+* Developed json RESTfull API service for new mobile apps(IOs/Android) in two month period, including: OAuth, users profiles, messages, friendship and etc(Node.js, express, socket).
 * Design NoSQL documents, install and setup couchbasedb in cloud instancse(Amazon).
 * Design and deploy API specification with testing case(Swagger).
 * Development of the product and the concept of the brand new idea of the application.

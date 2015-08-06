@@ -16,7 +16,8 @@
 #####Technology 
 
 * Javascript frameworks: Express, Passport, Anugularjs, JQuery.
-* PHP techs: Yii, Zend, PDO, PHPUnit, Codeception.
+* PHP techs: Yii, Zend, PDO.
+* Unit test techs: PHPUnit, Codeception, Selenium.
 * Web-service: API integration/development(REST/XML/JSON).
 * NoSQL Database programming: Couchbase server.
 * SQL Database programming: MySQL, SQL, MSSQL.

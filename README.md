@@ -1,5 +1,5 @@
 *Alex Dubinchyk*<br>
-*Sunnyvale, CA*<br>
+*Mountain View, CA*<br>
 *[alexdevby@gmail.com](mailto:alexs.dbk@gmail.com)*<br>
 *Status:Green Card Holder*
 <br><br>

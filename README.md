@@ -3,10 +3,6 @@
 *[alexdevby@gmail.com](mailto:alexs.dbk@gmail.com)*<br>
 *Status:Green Card Holder*
 <br><br>
-
-#####OBJECTIVE
-&nbsp;&nbsp;Seeking a challenging position in an awesome work environment.
-
 #####SUMMARY
 
 *	5+ years development experience. 

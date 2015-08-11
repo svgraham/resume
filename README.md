@@ -82,7 +82,7 @@
 
 * Dynamic website design and programming using PHP, MySQL, HTML, CSS. Setup and administration of web servers and server software.
 * Business consulting of securing/ planning project.
-* Development to online marketing, search engine placement and promotion (http://www.mogu.by; http://www.a-h.by).
+* Development to online marketing, search engine placement and promotion (http://www.mogu.by  http://www.a-h.by).
 
 #####EDUCATION
 * Belarusian University of Informatics and Radioelectronics, <br>

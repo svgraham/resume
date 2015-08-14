@@ -6,7 +6,7 @@
 #####SUMMARY
 
 *	5+ years development experience. 
-*	Specialized in full stack web development.
+*	Specialized in Full Stack Web development.
 * Foundation in Computer Science, with competencies in data structures, algorithms, data analysis, and software design.
 
 #####Technology 

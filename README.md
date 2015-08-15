@@ -6,7 +6,7 @@
 #####SUMMARY
 
 *	5+ years development experience. 
-*	Specialized in Full Stack Web development.
+*	Specialized in Full  Web development.
 * Foundation in Computer Science, with competencies in data structures, algorithms, data analysis, and software design.
 
 #####Technology 
@@ -24,13 +24,13 @@
 #####EXPERIENCE
 
 **Thismoment**<br>
-**Full Stack Web Developer**<br>
+**Full  Web Developer**<br>
 **San Francisco, CA. June 2015 – Current** <br>
 
 <br>
 
 **Mobile app Startup Synchora**<br>
-**Full Stack Developer**<br>
+**Full  Developer**<br>
 **Redwood City, CA. April 2015 - June 2015** <br>
 
 * Developed json RESTfull API service for new mobile apps(IOs/Android) in two month period, including: OAuth, users profiles, messages, friendship and etc(Node.js, express, socket).
@@ -39,7 +39,7 @@
 * Development of the product and the concept of the brand new idea of the application.
 
 **Actuate(http://www.actuate.com/)**<br>
-**Full stack PHP Developer**<br>
+**Full Stack PHP Developer**<br>
 **San Manteo, CA. November 2014 - April 2015**
 
 * Implemented transaction payment web service. Setup transaction steps logging, alert, history and etc. Design and development frontend payment web service for USA credit card.

@@ -77,7 +77,7 @@
 *	Redesigned and reimplemented projects using MVC approach and strong OOP design.
 *	Designed and conversion of scripts database, extensive SQL query optimization.
 
-**Real Estate Agency Assistant heals LLC(http://www.a-h.by), Full stack PHP Developer**<br>
+**Real Estate Agency Assistant heals LLC(http://www.a-h.by), Full Stack PHP Developer**<br>
 **Belarus, Minsk; May 2011 - January 2012**
 
 * Dynamic website design and programming using PHP, MySQL, HTML, CSS. Setup and administration of web servers and server software.

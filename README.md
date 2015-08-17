@@ -56,7 +56,7 @@
 * Deploy merge DB script(MSSQL>MySQL).
 
 **Rozumsoft LLC, / Telecontact LLC(http://www.telecontact.ru/)**<br>
-**Full stack PHP Developer**<br>
+**Full Stack PHP Developer**<br>
 **Belarus, Minsk. February 2012 - September  2014**<br><br>
 &nbsp;&nbsp;**Programming modules of dynamically building statistics for quality control assessment project.**
 

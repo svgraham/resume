@@ -1,7 +1,7 @@
-*Alex Dubinchyk*<br>
-*Mountain View, CA*<br>
-*[alexdevby@gmail.com](mailto:alexs.dbk@gmail.com)*<br>
-*Status:Green Card Holder*
+*Alex Dubinchyk.*<br>
+*Mountain View, CA.*<br>
+*[alexdevby@gmail.com](mailto:alexs.dbk@gmail.com).*<br>
+*Status:Green Card Holder.*
 <br><br>
 #####SUMMARY
 

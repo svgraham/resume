@@ -27,6 +27,8 @@
 **Full  Web Developer**<br>
 **San Francisco, CA. June 2015 – Current** <br>
 
+* Full Stack develment: RESTfull + Client side. Zend apigility, Elasticsearch.
+
 <br>
 
 **Mobile app Startup Synchora**<br>

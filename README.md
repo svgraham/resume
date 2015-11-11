@@ -28,7 +28,7 @@
 
 * Implement web contentcloud solutions.
 * Works with socialmedia API: youtube, facebook, twitter, etc.
-
+* Develop content upload process, content connection one to one, one to many, many to many.
 <br>
 
 **Mobile app Startup Synchora**<br>

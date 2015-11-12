@@ -10,7 +10,7 @@
 
 #####Technology 
 
-* Javascript frameworks: Express, Passport, Anugularjs, JQuery.
+* Javascript frameworks: Express, Passport, Anugularjs, Backbone, Underscore JQuery.
 * PHP techs: Yii, Zend, PDO, ORM doctrine.
 * Unit test techs: PHPUnit, Codeception, Selenium.
 * Web-service: API integration/development(REST/XML/JSON).
@@ -29,6 +29,7 @@
 * Implement web contentcloud solutions.
 * Works with socialmedia API: youtube, facebook, twitter, etc.
 * Develop content upload process, content connection one to one, one to many, many to many.
+* Develop fully responsive interface: desktop, table(portrait), mobile.
 <br>
 
 **Mobile app Startup Synchora**<br>

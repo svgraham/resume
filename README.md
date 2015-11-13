@@ -10,7 +10,7 @@
 
 #####Technology 
 
-* Javascript frameworks: Express, Passport, Anugularjs, Backbone, Underscore JQuery.
+* Javascript frameworks: Express, Passport, Anugularjs, Backbone, Underscore, JQuery.
 * PHP techs: Yii, Zend, PDO, ORM doctrine.
 * Unit test techs: PHPUnit, Codeception, Selenium.
 * Web-service: API integration/development(REST/XML/JSON).

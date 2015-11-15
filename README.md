@@ -18,7 +18,7 @@
 * SQL Database programming: MySQL, SQL, MSSQL.
 * Python techs: ORM Peewee.
 *	Webserver installation and configuration: Nodejs, Apache, Nginx, IIS.
-* OS: Linux, Mac, Windows.
+* OS: Mac, Linux, Windows.
 
 #####EXPERIENCE
 

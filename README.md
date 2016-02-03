@@ -26,7 +26,7 @@
 **Full  Web Developer**<br>
 **San Francisco, CA. June 2015 – Current** <br>
 
-* Implement web contentcloud solutions.
+* Implement web contentcloud solutions(Zend, ORM,  Elasticsearch)
 * Works with socialmedia API: youtube, facebook, twitter, etc.
 * Develop content upload process, content connection one to one, one to many, many to many.
 * Develop fully responsive interface: desktop, table(portrait), mobile.

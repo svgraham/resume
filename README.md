@@ -12,7 +12,7 @@
 
 * Javascript frameworks: Express, Passport, Anugularjs, Backbone, Underscore, JQuery.
 * PHP techs: Yii, Zend, PDO, ORM doctrine, Composer.
-* Unit test techs: PHPUnit, Codeception, Selenium.
+* Test techs(Selenium): PHPUnit, E2E Nightwatch.js.
 * Web-service: API integration/development(REST/XML/JSON).
 * NoSQL Database programming: Couchbase server.
 * SQL Database programming: MySQL, SQL, MSSQL.
@@ -30,6 +30,8 @@
 * Works with socialmedia API: youtube, facebook, twitter, etc.
 * Develop content upload process, content connection one to one, one to many, many to many.
 * Develop fully responsive interface: desktop, table(portrait), mobile.
+* Integrated solution for Swagger API documentation on Zend Apigility project.
+* Lead of E2E test team. Implemented project structure for Nightwatch.js framework based on Page Objects methodology.
 <br>
 
 **Mobile app Startup Synchora**<br>
